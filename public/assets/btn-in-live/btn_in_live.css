@@ -1,0 +1,26 @@
+.btn-danger {
+    position: relative;
+}
+
+#circle {
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    transform: translate(0, -50%);
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    border-radius: 50%;
+    opacity: 0;
+    animation: blink 1s infinite;
+}
+
+.button-label {
+    margin-left: 10px;
+}
+
+@keyframes blink {
+    50% {
+        opacity: 1;
+    }
+}

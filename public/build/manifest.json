@@ -1,0 +1,689 @@
+{
+  "public/assets/fontawesome/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-5da313b0.woff2",
+    "src": "public/assets/fontawesome/webfonts/fa-regular-400.woff2"
+  },
+  "public/assets/fontawesome/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-c61287c2.woff2",
+    "src": "public/assets/fontawesome/webfonts/fa-brands-400.woff2"
+  },
+  "public/assets/fontawesome/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-8f06540f.woff2",
+    "src": "public/assets/fontawesome/webfonts/fa-solid-900.woff2"
+  },
+  "public/assets/fontawesome/webfonts/fa-v4compatibility.woff2": {
+    "file": "assets/fa-v4compatibility-f46715c9.woff2",
+    "src": "public/assets/fontawesome/webfonts/fa-v4compatibility.woff2"
+  },
+  "public/assets/educrat/fonts/fontawesome-webfont.eot": {
+    "file": "assets/fontawesome-webfont-7bfcab6d.eot",
+    "src": "public/assets/educrat/fonts/fontawesome-webfont.eot"
+  },
+  "public/assets/educrat/fonts/icomoon.eot": {
+    "file": "assets/icomoon-caedd318.eot",
+    "src": "public/assets/educrat/fonts/icomoon.eot"
+  },
+  "public/assets/educrat/fonts/font/GT-Walsheim-Pro-Thin.woff2": {
+    "file": "assets/GT-Walsheim-Pro-Thin-fdfea294.woff2",
+    "src": "public/assets/educrat/fonts/font/GT-Walsheim-Pro-Thin.woff2"
+  },
+  "public/assets/educrat/fonts/font/GT-Walsheim-Pro-Light.woff2": {
+    "file": "assets/GT-Walsheim-Pro-Light-88032e5e.woff2",
+    "src": "public/assets/educrat/fonts/font/GT-Walsheim-Pro-Light.woff2"
+  },
+  "public/assets/educrat/fonts/font/GT-Walsheim-Pro-Ultra-Light.woff2": {
+    "file": "assets/GT-Walsheim-Pro-Ultra-Light-8278a96e.woff2",
+    "src": "public/assets/educrat/fonts/font/GT-Walsheim-Pro-Ultra-Light.woff2"
+  },
+  "public/assets/educrat/fonts/font/GT-Walsheim-Pro-Medium.woff2": {
+    "file": "assets/GT-Walsheim-Pro-Medium-a7c404d5.woff2",
+    "src": "public/assets/educrat/fonts/font/GT-Walsheim-Pro-Medium.woff2"
+  },
+  "public/assets/educrat/fonts/font/GT-Walsheim-Pro-Bold.woff2": {
+    "file": "assets/GT-Walsheim-Pro-Bold-2e7a2d49.woff2",
+    "src": "public/assets/educrat/fonts/font/GT-Walsheim-Pro-Bold.woff2"
+  },
+  "public/assets/educrat/fonts/font/GT-Walsheim-Pro-Regular.woff2": {
+    "file": "assets/GT-Walsheim-Pro-Regular-9d7d7df7.woff2",
+    "src": "public/assets/educrat/fonts/font/GT-Walsheim-Pro-Regular.woff2"
+  },
+  "public/assets/educrat/fonts/font/GT-Walsheim-Pro-Black.woff2": {
+    "file": "assets/GT-Walsheim-Pro-Black-be009dfd.woff2",
+    "src": "public/assets/educrat/fonts/font/GT-Walsheim-Pro-Black.woff2"
+  },
+  "public/assets/educrat/img/home/bg-details-course.jpg": {
+    "file": "assets/bg-details-course-f9f2edf2.jpg",
+    "src": "public/assets/educrat/img/home/bg-details-course.jpg"
+  },
+  "public/assets/educrat/img/home/background-header.jpg": {
+    "file": "assets/background-header-37358e3f.jpg",
+    "src": "public/assets/educrat/img/home/background-header.jpg"
+  },
+  "public/assets/velzon/fonts/la-brands-400.eot": {
+    "file": "assets/la-brands-400-c0e32387.eot",
+    "src": "public/assets/velzon/fonts/la-brands-400.eot"
+  },
+  "public/assets/velzon/fonts/la-regular-400.eot": {
+    "file": "assets/la-regular-400-7dc456f0.eot",
+    "src": "public/assets/velzon/fonts/la-regular-400.eot"
+  },
+  "public/assets/velzon/fonts/boxicons.eot": {
+    "file": "assets/boxicons-e6c956eb.eot",
+    "src": "public/assets/velzon/fonts/boxicons.eot"
+  },
+  "public/assets/velzon/fonts/hkgrotesk-light.eot": {
+    "file": "assets/hkgrotesk-light-d980392e.eot",
+    "src": "public/assets/velzon/fonts/hkgrotesk-light.eot"
+  },
+  "public/assets/velzon/fonts/hkgrotesk-light.woff": {
+    "file": "assets/hkgrotesk-light-e05026f2.woff",
+    "src": "public/assets/velzon/fonts/hkgrotesk-light.woff"
+  },
+  "public/assets/velzon/fonts/la-solid-900.eot": {
+    "file": "assets/la-solid-900-8a57f8a9.eot",
+    "src": "public/assets/velzon/fonts/la-solid-900.eot"
+  },
+  "public/assets/velzon/fonts/remixicon.eot": {
+    "file": "assets/remixicon-64bb3a0f.eot",
+    "src": "public/assets/velzon/fonts/remixicon.eot"
+  },
+  "public/assets/velzon/fonts/hkgrotesk-regular.eot": {
+    "file": "assets/hkgrotesk-regular-7e08a468.eot",
+    "src": "public/assets/velzon/fonts/hkgrotesk-regular.eot"
+  },
+  "public/assets/velzon/fonts/hkgrotesk-medium.woff": {
+    "file": "assets/hkgrotesk-medium-220567a0.woff",
+    "src": "public/assets/velzon/fonts/hkgrotesk-medium.woff"
+  },
+  "public/assets/velzon/fonts/hkgrotesk-semibold.woff": {
+    "file": "assets/hkgrotesk-semibold-fd554236.woff",
+    "src": "public/assets/velzon/fonts/hkgrotesk-semibold.woff"
+  },
+  "public/assets/velzon/fonts/hkgrotesk-bold.woff": {
+    "file": "assets/hkgrotesk-bold-b17c8386.woff",
+    "src": "public/assets/velzon/fonts/hkgrotesk-bold.woff"
+  },
+  "public/assets/velzon/fonts/hkgrotesk-regular.woff": {
+    "file": "assets/hkgrotesk-regular-52c22a93.woff",
+    "src": "public/assets/velzon/fonts/hkgrotesk-regular.woff"
+  },
+  "public/assets/velzon/fonts/hkgrotesk-medium.eot": {
+    "file": "assets/hkgrotesk-medium-ba2cce1f.eot",
+    "src": "public/assets/velzon/fonts/hkgrotesk-medium.eot"
+  },
+  "public/assets/velzon/images/sidebar/img-3.jpg": {
+    "file": "assets/img-3-d0db49dd.jpg",
+    "src": "public/assets/velzon/images/sidebar/img-3.jpg"
+  },
+  "public/assets/velzon/images/modal-bg.png": {
+    "file": "assets/modal-bg-f849fc08.png",
+    "src": "public/assets/velzon/images/modal-bg.png"
+  },
+  "public/assets/velzon/fonts/hkgrotesk-semibold.eot": {
+    "file": "assets/hkgrotesk-semibold-eb495079.eot",
+    "src": "public/assets/velzon/fonts/hkgrotesk-semibold.eot"
+  },
+  "public/assets/velzon/images/sidebar/img-4.jpg": {
+    "file": "assets/img-4-04b70876.jpg",
+    "src": "public/assets/velzon/images/sidebar/img-4.jpg"
+  },
+  "public/assets/velzon/images/sidebar/img-2.jpg": {
+    "file": "assets/img-2-68e6fda9.jpg",
+    "src": "public/assets/velzon/images/sidebar/img-2.jpg"
+  },
+  "public/assets/velzon/images/cover-pattern.png": {
+    "file": "assets/cover-pattern-ca1c8533.png",
+    "src": "public/assets/velzon/images/cover-pattern.png"
+  },
+  "public/assets/velzon/images/sidebar/img-1.jpg": {
+    "file": "assets/img-1-f2d8b78a.jpg",
+    "src": "public/assets/velzon/images/sidebar/img-1.jpg"
+  },
+  "public/assets/velzon/images/auth-one-bg.jpg": {
+    "file": "assets/auth-one-bg-78b82083.jpg",
+    "src": "public/assets/velzon/images/auth-one-bg.jpg"
+  },
+  "public/assets/velzon/images/chat-bg-pattern.png": {
+    "file": "assets/chat-bg-pattern-e3e4de96.png",
+    "src": "public/assets/velzon/images/chat-bg-pattern.png"
+  },
+  "public/assets/velzon/images/file.png": {
+    "file": "assets/file-8a50b552.png",
+    "src": "public/assets/velzon/images/file.png"
+  },
+  "public/assets/velzon/images/nft/marketplace.png": {
+    "file": "assets/marketplace-cd732bec.png",
+    "src": "public/assets/velzon/images/nft/marketplace.png"
+  },
+  "public/assets/velzon/images/landing/bg-pattern.png": {
+    "file": "assets/bg-pattern-d91fd86d.png",
+    "src": "public/assets/velzon/images/landing/bg-pattern.png"
+  },
+  "public/assets/educrat/img/register/bg-login.jpg": {
+    "file": "assets/bg-login-2acca3ac.jpg",
+    "src": "public/assets/educrat/img/register/bg-login.jpg"
+  },
+  "public/assets/educrat/img/home/bg-courses.jpg": {
+    "file": "assets/bg-courses-938761f3.jpg",
+    "src": "public/assets/educrat/img/home/bg-courses.jpg"
+  },
+  "public/assets/educrat/img/home/membership-silver.png": {
+    "file": "assets/membership-silver-1c1803b3.png",
+    "src": "public/assets/educrat/img/home/membership-silver.png"
+  },
+  "public/assets/educrat/img/home/membership-gold.png": {
+    "file": "assets/membership-gold-8fa0cfb3.png",
+    "src": "public/assets/educrat/img/home/membership-gold.png"
+  },
+  "public/assets/velzon/images/nft/bg-home.jpg": {
+    "file": "assets/bg-home-68fd17fa.jpg",
+    "src": "public/assets/velzon/images/nft/bg-home.jpg"
+  },
+  "public/assets/velzon/fonts/materialdesignicons-webfont.eot": {
+    "file": "assets/materialdesignicons-webfont-4de2dae5.eot",
+    "src": "public/assets/velzon/fonts/materialdesignicons-webfont.eot"
+  },
+  "public/assets/fontawesome/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-d7b19fe2.ttf",
+    "src": "public/assets/fontawesome/webfonts/fa-regular-400.ttf"
+  },
+  "public/assets/fontawesome/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-b1d1c1b0.ttf",
+    "src": "public/assets/fontawesome/webfonts/fa-brands-400.ttf"
+  },
+  "public/assets/fontawesome/webfonts/fa-v4compatibility.ttf": {
+    "file": "assets/fa-v4compatibility-2ddb3b41.ttf",
+    "src": "public/assets/fontawesome/webfonts/fa-v4compatibility.ttf"
+  },
+  "public/assets/fontawesome/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-e4f6a7e9.ttf",
+    "src": "public/assets/fontawesome/webfonts/fa-solid-900.ttf"
+  },
+  "public/assets/educrat/fonts/fontawesome-webfont.woff2": {
+    "file": "assets/fontawesome-webfont-2adefcbc.woff2",
+    "src": "public/assets/educrat/fonts/fontawesome-webfont.woff2"
+  },
+  "public/assets/educrat/fonts/icomoon.ttf": {
+    "file": "assets/icomoon-1d865127.ttf",
+    "src": "public/assets/educrat/fonts/icomoon.ttf"
+  },
+  "public/assets/velzon/fonts/la-regular-400.woff2": {
+    "file": "assets/la-regular-400-51ca2c00.woff2",
+    "src": "public/assets/velzon/fonts/la-regular-400.woff2"
+  },
+  "public/assets/velzon/fonts/la-brands-400.woff2": {
+    "file": "assets/la-brands-400-ff70c9bc.woff2",
+    "src": "public/assets/velzon/fonts/la-brands-400.woff2"
+  },
+  "public/assets/velzon/fonts/boxicons.woff2": {
+    "file": "assets/boxicons-dec58953.woff2",
+    "src": "public/assets/velzon/fonts/boxicons.woff2"
+  },
+  "public/assets/velzon/fonts/remixicon.woff2": {
+    "file": "assets/remixicon-e61f0d10.woff2",
+    "src": "public/assets/velzon/fonts/remixicon.woff2"
+  },
+  "public/assets/velzon/fonts/la-solid-900.woff2": {
+    "file": "assets/la-solid-900-10a68e01.woff2",
+    "src": "public/assets/velzon/fonts/la-solid-900.woff2"
+  },
+  "public/assets/velzon/fonts/materialdesignicons-webfont.woff2": {
+    "file": "assets/materialdesignicons-webfont-11e3d4ca.woff2",
+    "src": "public/assets/velzon/fonts/materialdesignicons-webfont.woff2"
+  },
+  "public/assets/educrat/fonts/icomoon.woff": {
+    "file": "assets/icomoon-35c6a787.woff",
+    "src": "public/assets/educrat/fonts/icomoon.woff"
+  },
+  "public/assets/educrat/fonts/fontawesome-webfont.woff": {
+    "file": "assets/fontawesome-webfont-ba0c59de.woff",
+    "src": "public/assets/educrat/fonts/fontawesome-webfont.woff"
+  },
+  "public/assets/velzon/fonts/la-regular-400.woff": {
+    "file": "assets/la-regular-400-7711fabc.woff",
+    "src": "public/assets/velzon/fonts/la-regular-400.woff"
+  },
+  "public/assets/velzon/fonts/la-brands-400.woff": {
+    "file": "assets/la-brands-400-14c63377.woff",
+    "src": "public/assets/velzon/fonts/la-brands-400.woff"
+  },
+  "public/assets/velzon/fonts/la-solid-900.woff": {
+    "file": "assets/la-solid-900-a0d21b2a.woff",
+    "src": "public/assets/velzon/fonts/la-solid-900.woff"
+  },
+  "public/assets/velzon/fonts/remixicon.woff": {
+    "file": "assets/remixicon-c2dacfbc.woff",
+    "src": "public/assets/velzon/fonts/remixicon.woff"
+  },
+  "public/assets/velzon/fonts/boxicons.woff": {
+    "file": "assets/boxicons-5ba91d51.woff",
+    "src": "public/assets/velzon/fonts/boxicons.woff"
+  },
+  "public/assets/velzon/fonts/materialdesignicons-webfont.woff": {
+    "file": "assets/materialdesignicons-webfont-04fb6e8b.woff",
+    "src": "public/assets/velzon/fonts/materialdesignicons-webfont.woff"
+  },
+  "public/assets/educrat/fonts/fontawesome-webfont.ttf": {
+    "file": "assets/fontawesome-webfont-aa58f33f.ttf",
+    "src": "public/assets/educrat/fonts/fontawesome-webfont.ttf"
+  },
+  "public/assets/educrat/fonts/icomoon.svg": {
+    "file": "assets/icomoon-dc672ae6.svg",
+    "src": "public/assets/educrat/fonts/icomoon.svg"
+  },
+  "public/assets/velzon/fonts/la-regular-400.ttf": {
+    "file": "assets/la-regular-400-4b6ab8d0.ttf",
+    "src": "public/assets/velzon/fonts/la-regular-400.ttf"
+  },
+  "public/assets/velzon/fonts/la-brands-400.ttf": {
+    "file": "assets/la-brands-400-fbc98702.ttf",
+    "src": "public/assets/velzon/fonts/la-brands-400.ttf"
+  },
+  "public/assets/velzon/fonts/la-solid-900.ttf": {
+    "file": "assets/la-solid-900-07ce3559.ttf",
+    "src": "public/assets/velzon/fonts/la-solid-900.ttf"
+  },
+  "public/assets/velzon/fonts/boxicons.ttf": {
+    "file": "assets/boxicons-38a9542a.ttf",
+    "src": "public/assets/velzon/fonts/boxicons.ttf"
+  },
+  "public/assets/velzon/fonts/remixicon.ttf": {
+    "file": "assets/remixicon-0ac8bc3c.ttf",
+    "src": "public/assets/velzon/fonts/remixicon.ttf"
+  },
+  "public/assets/educrat/fonts/fontawesome-webfont.svg": {
+    "file": "assets/fontawesome-webfont-fc378232.svg",
+    "src": "public/assets/educrat/fonts/fontawesome-webfont.svg"
+  },
+  "public/assets/velzon/fonts/la-regular-400.svg": {
+    "file": "assets/la-regular-400-8606b583.svg",
+    "src": "public/assets/velzon/fonts/la-regular-400.svg"
+  },
+  "public/assets/velzon/fonts/materialdesignicons-webfont.ttf": {
+    "file": "assets/materialdesignicons-webfont-9e94d4db.ttf",
+    "src": "public/assets/velzon/fonts/materialdesignicons-webfont.ttf"
+  },
+  "public/assets/velzon/fonts/la-solid-900.svg": {
+    "file": "assets/la-solid-900-36bf86c3.svg",
+    "src": "public/assets/velzon/fonts/la-solid-900.svg"
+  },
+  "public/assets/velzon/fonts/la-brands-400.svg": {
+    "file": "assets/la-brands-400-af7a9c33.svg",
+    "src": "public/assets/velzon/fonts/la-brands-400.svg"
+  },
+  "public/assets/velzon/fonts/remixicon.svg": {
+    "file": "assets/remixicon-aab59b7b.svg",
+    "src": "public/assets/velzon/fonts/remixicon.svg"
+  },
+  "public/assets/velzon/fonts/boxicons.svg": {
+    "file": "assets/boxicons-eaa696a4.svg",
+    "src": "public/assets/velzon/fonts/boxicons.svg"
+  },
+  "resources/css/public.css": {
+    "file": "assets/public-094d6e77.css",
+    "src": "resources/css/public.css",
+    "isEntry": true
+  },
+  "resources/css/backoffice.css": {
+    "file": "assets/backoffice-c011a74b.css",
+    "src": "resources/css/backoffice.css",
+    "isEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/frontier.js": {
+    "file": "assets/frontier-035eb74c.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/frontier.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/metamask.js": {
+    "file": "assets/metamask-1c685b94.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/metamask.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/okxwallet.js": {
+    "file": "assets/okxwallet-1c6a2600.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/okxwallet.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/oneInch.js": {
+    "file": "assets/oneInch-104b3cc4.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/oneInch.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/rabby.js": {
+    "file": "assets/rabby-fc161279.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/rabby.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/core.js": {
+    "file": "assets/core-1c42229d.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/core.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/zeal.js": {
+    "file": "assets/zeal-8b158173.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/zeal.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/alphawallet.js": {
+    "file": "assets/alphawallet-eb2bedab.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/alphawallet.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/sequence.js": {
+    "file": "assets/sequence-c07eb3ae.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/sequence.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/xdefi.js": {
+    "file": "assets/xdefi-07e71929.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/xdefi.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/safeheron.js": {
+    "file": "assets/safeheron-de7caf3b.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/safeheron.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/apexwallet.js": {
+    "file": "assets/apexwallet-ea5f0b2c.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/apexwallet.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/bifrostwallet.js": {
+    "file": "assets/bifrostwallet-b2843d3a.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/bifrostwallet.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/gamestop.js": {
+    "file": "assets/gamestop-0e4c1409.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/gamestop.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/tallywallet.js": {
+    "file": "assets/tallywallet-a671320d.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/tallywallet.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/brave.js": {
+    "file": "assets/brave-889178d1.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/brave.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/onekey.js": {
+    "file": "assets/onekey-102b2f4e.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/onekey.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/detected.js": {
+    "file": "assets/detected-641a4aef.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/detected.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/atoken.js": {
+    "file": "assets/atoken-f422e6b4.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/atoken.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/imtoken.js": {
+    "file": "assets/imtoken-4be0a845.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/imtoken.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/hyperpay.js": {
+    "file": "assets/hyperpay-75c22b59.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/hyperpay.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/tokenary.js": {
+    "file": "assets/tokenary-f771c254.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/tokenary.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/opera.js": {
+    "file": "assets/opera-02e3a0e8.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/opera.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/mykey.js": {
+    "file": "assets/mykey-4e0c6565.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/mykey.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/frame.js": {
+    "file": "assets/frame-594ec465.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/frame.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/status.js": {
+    "file": "assets/status-049055fb.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/status.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/phantom.js": {
+    "file": "assets/phantom-9b3bd709.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/phantom.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/zerion.js": {
+    "file": "assets/zerion-d2dfe88d.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/zerion.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/rainbow.js": {
+    "file": "assets/rainbow-1fe0d81a.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/rainbow.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/bitkeep.js": {
+    "file": "assets/bitkeep-8077dcef.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/bitkeep.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/safepal.js": {
+    "file": "assets/safepal-7fa6b910.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/safepal.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/meetone.js": {
+    "file": "assets/meetone-d2b0ac23.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/meetone.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/enkrypt.js": {
+    "file": "assets/enkrypt-b1f25ae2.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/enkrypt.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/exodus.js": {
+    "file": "assets/exodus-358b5e9e.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/exodus.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/bitski.js": {
+    "file": "assets/bitski-220980c2.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/bitski.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/ownbit.js": {
+    "file": "assets/ownbit-fa6734bd.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/ownbit.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/defiwallet.js": {
+    "file": "assets/defiwallet-99978b81.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/defiwallet.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/bitpie.js": {
+    "file": "assets/bitpie-8ea44eae.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/bitpie.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/huobiwallet.js": {
+    "file": "assets/huobiwallet-c6da4601.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/huobiwallet.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/trust.js": {
+    "file": "assets/trust-59d19f99.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/trust.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/common/dist/index.js": {
+    "file": "assets/index-350bd6d7.js",
+    "src": "node_modules/@web3-onboard/common/dist/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_axios-71a0c357.js"
+    ]
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/talisman.js": {
+    "file": "assets/talisman-0ce2f18e.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/talisman.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/liquality.js": {
+    "file": "assets/liquality-0e245cbb.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/liquality.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/coinbase.js": {
+    "file": "assets/coinbase-8194cd0a.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/coinbase.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/blockwallet.js": {
+    "file": "assets/blockwallet-1235c6b8.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/blockwallet.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/mathwallet.js": {
+    "file": "assets/mathwallet-ff05f48e.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/mathwallet.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/tp.js": {
+    "file": "assets/tp-4b793710.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/tp.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/tokenpocket.js": {
+    "file": "assets/tokenpocket-a7e81129.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/tokenpocket.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/binance.js": {
+    "file": "assets/binance-aad6707a.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/binance.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/injected-wallets/dist/icons/infinitywallet.js": {
+    "file": "assets/infinitywallet-c00488d1.js",
+    "src": "node_modules/@web3-onboard/injected-wallets/dist/icons/infinitywallet.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/@web3-onboard/core/dist/Index-002c8b23.js": {
+    "file": "assets/Index-002c8b23-e065bebf.js",
+    "src": "node_modules/@web3-onboard/core/dist/Index-002c8b23.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_axios-71a0c357.js"
+    ]
+  },
+  "_axios-71a0c357.js": {
+    "file": "assets/axios-71a0c357.js"
+  },
+  "node_modules/@web3-onboard/core/dist/Index-ac04bb8c.js": {
+    "file": "assets/Index-ac04bb8c-12dad2ec.js",
+    "src": "node_modules/@web3-onboard/core/dist/Index-ac04bb8c.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_axios-71a0c357.js"
+    ]
+  },
+  "node_modules/bnc-sdk/dist/esm/index.js": {
+    "file": "assets/index-97f1a1af.js",
+    "src": "node_modules/bnc-sdk/dist/esm/index.js",
+    "isDynamicEntry": true
+  },
+  "resources/js/backoffice.js": {
+    "file": "assets/backoffice-87dee4c1.js",
+    "src": "resources/js/backoffice.js",
+    "isEntry": true
+  },
+  "resources/js/public.js": {
+    "file": "assets/public-b97e2cea.js",
+    "src": "resources/js/public.js",
+    "isEntry": true,
+    "imports": [
+      "_axios-71a0c357.js"
+    ]
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app-45cf97c5.js",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "imports": [
+      "_axios-71a0c357.js"
+    ],
+    "dynamicImports": [
+      "node_modules/bnc-sdk/dist/esm/index.js",
+      "node_modules/bnc-sdk/dist/esm/index.js",
+      "node_modules/@web3-onboard/core/dist/Index-ac04bb8c.js",
+      "node_modules/@web3-onboard/core/dist/Index-002c8b23.js",
+      "node_modules/@web3-onboard/common/dist/index.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/metamask.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/infinitywallet.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/exodus.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/frontier.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/brave.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/binance.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/coinbase.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/detected.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/trust.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/opera.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/status.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/alphawallet.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/apexwallet.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/atoken.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/bifrostwallet.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/bitpie.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/blockwallet.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/frame.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/huobiwallet.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/hyperpay.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/imtoken.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/liquality.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/meetone.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/mykey.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/ownbit.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/tokenpocket.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/tp.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/xdefi.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/oneInch.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/tokenary.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/tallywallet.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/zeal.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/rabby.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/mathwallet.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/gamestop.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/bitkeep.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/sequence.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/core.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/bitski.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/zerion.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/enkrypt.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/phantom.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/safepal.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/rainbow.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/okxwallet.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/defiwallet.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/safeheron.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/talisman.js",
+      "node_modules/@web3-onboard/injected-wallets/dist/icons/onekey.js"
+    ]
+  }
+}
